@@ -1,4 +1,4 @@
-# 👋Hi, I'm Aderounmu Adeyemi
+# 👋Hi, I'm Yemi -The Data Knight😎
 - 👀 I’m a passionate data enthusiast with expertise in Data Analysis, Data Sceince, Machine learning, Data Engineering and AI systems. Basically into anything data and AI.
 #  🔭 What I'm working on
 -   Data Analytics: Leveraging Python, SQL and Power BI for getting insightful data visualizations that answers complex questions on large datasets.
