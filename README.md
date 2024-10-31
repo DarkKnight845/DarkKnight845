@@ -23,7 +23,7 @@
 # - 😄 Pronouns
 - Him/He/His
 # ⚡ Fun fact:
-I watch movies and series more than I work on buidlding models or AI systems
+I watch movies and series more than I work on building models or AI systems
 
 <!---
 DarkKnight845/DarkKnight845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
