@@ -41,7 +41,7 @@ My work spans **data engineering, machine learning, blockchain analytics, and AI
 
 ---
 
-## 📌 Selected Projects
+## 📌 Projects
 
 ### **BSC Token Monitor — Real-time Blockchain Analytics**  
 *Python · WebSocket APIs · AWS (S3, Glue, RDS)*  
