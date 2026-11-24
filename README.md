@@ -32,6 +32,7 @@ Scalable data pipelines · ML systems in production · AI-powered analytics · C
 - **GitHub**: https://github.com/DarkKnight845
 - **LinkedIn**: https://linkedin.com/in/adeyemi-aderounmu
 - **Email**: ayemiade2020@gmail.com
+-  **Portfolio**: https://ayemidev.vercel.app
 
 ---
 
